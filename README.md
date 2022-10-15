@@ -1,4 +1,4 @@
-### 안녕하세요 성장하는 개발자 문희주입니다.😎
+### 안녕하세요😎
 
 <!--
 **HeeJuMoon/HeeJuMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
